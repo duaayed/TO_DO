@@ -208,3 +208,9 @@ form.newList {
     opacity: 1;
   }
 }
+@media(max-width: 580px){
+  .hero {
+    flex-direction: column;
+  }
+ 
+}
